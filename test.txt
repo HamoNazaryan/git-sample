@@ -2,5 +2,4 @@ Hello Hi ,
 Bonjur,
 Privet,
 dadasd ,
-addsd iteee,
-ssdasd
+addsd iteee
